@@ -34,16 +34,3 @@ body {
     font-weight: 600;
 }
 
-footer {
-    width: 100%;
-    text-align: center;
-    padding: 16px 10px;
-    background:white;
-    border-top: 1px solid ;
-}
-
-footer h4 {
-    margin: 6px 0;
-    font-size: 25px;
-    font-weight: 600;
-}
